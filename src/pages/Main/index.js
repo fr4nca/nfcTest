@@ -1,5 +1,5 @@
 import React, { PureComponent } from "react";
-import { startNFC, stopNFC } from "../../components/NFCHelper";
+import { startNFC, stopNFC } from "../../helpers/NFCHelper";
 
 import { Text, FlatList, View, StyleSheet } from "react-native";
 
